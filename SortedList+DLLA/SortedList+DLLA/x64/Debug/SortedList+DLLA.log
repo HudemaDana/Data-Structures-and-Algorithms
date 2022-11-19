@@ -1,0 +1,6 @@
+﻿  ListIterator.cpp
+C:\Users\dllov\OneDrive\Desktop\sem2\Data Structure\assignment_3\SortedList+DLLA\SortedList+DLLA\SortedIndexedList.h(19): warning C4091: 'typedef ': ignored on left of 'SortedIndexedList::DLLANode' when no variable is declared
+  SortedIndexeList.cpp
+C:\Users\dllov\OneDrive\Desktop\sem2\Data Structure\assignment_3\SortedList+DLLA\SortedList+DLLA\SortedIndexedList.h(19): warning C4091: 'typedef ': ignored on left of 'SortedIndexedList::DLLANode' when no variable is declared
+  Generating Code...
+  SortedList+DLLA.vcxproj -> C:\Users\dllov\OneDrive\Desktop\sem2\Data Structure\assignment_3\SortedList+DLLA\x64\Debug\SortedList+DLLA.exe
